@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="base">#00BB29</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#fc384b</color>
+    <color name="green">#66ff00</color>
+    <color name="blue">#3333ff</color>
+    <color name="white">#ffffff</color>
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+    <color name="black_de">#DE000000</color>
+
+</resources>
